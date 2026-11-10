@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiger Luck Quest</string>
+
+    <string name="brand_title">TIGER LUCK QUEST</string>
+    <string name="brand_subtitle">GUARD THE JADE TEMPLE</string>
+    <string name="loading">LOADING</string>
+
+    <string name="play">PLAY</string>
+    <string name="levels">LEVELS</string>
+    <string name="collection">COLLECTION</string>
+    <string name="progress">PROGRESS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="rules">RULES</string>
+    <string name="menu">MENU</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="next_expedition">NEXT EXPEDITION</string>
+    <string name="start_turn">START TURN</string>
+    <string name="resolving">RESOLVING</string>
+    <string name="roar">ROAR</string>
+    <string name="resume">RESUME</string>
+    <string name="restart">RESTART</string>
+    <string name="got_it">GOT IT</string>
+    <string name="equip">EQUIP</string>
+    <string name="unequip">UNEQUIP</string>
+    <string name="close">CLOSE</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="back">BACK</string>
+
+    <string name="expedition_fmt">EXPEDITION %1$d</string>
+    <string name="turn_fmt">TURN %1$d / %2$d</string>
+    <string name="ratio_fmt">%1$d / %2$d</string>
+    <string name="count_fmt">%1$d</string>
+    <string name="cleared_fmt">%1$d / 8 CLEARED</string>
+    <string name="relics_fmt">%1$d / 9 RELICS</string>
+    <string name="waves_fmt">%1$d BEASTS</string>
+    <string name="level_turns_fmt">%1$d TURNS / %2$d WAVES</string>
+    <string name="level_locked_fmt">CLEAR EXPEDITION %1$d</string>
+    <string name="best_wards_fmt">BEST: %1$d WARDS</string>
+    <string name="streak_fmt">%1$d WAVES WITHOUT A WARD LOST</string>
+    <string name="relic_strip_fmt">%1$s - %2$s</string>
+
+    <string name="menu_relic_empty">NO RELIC EQUIPPED - OPEN COLLECTION</string>
+    <string name="menu_settings_caption">GAME OPTIONS</string>
+    <string name="menu_rules_caption">HOW THE TRAILS WORK</string>
+    <string name="menu_stars_caption">STARS</string>
+
+    <string name="title_expeditions">EXPEDITIONS</string>
+    <string name="title_relics">RELICS</string>
+    <string name="title_progress">PROGRESS</string>
+    <string name="title_settings">SETTINGS</string>
+    <string name="levels_footer">8 EXPEDITIONS - THE JUNGLE GETS DEEPER</string>
+    <string name="locked">LOCKED</string>
+
+    <string name="level_1">BAMBOO GATE</string>
+    <string name="level_2">STONE STEPS</string>
+    <string name="level_3">MIST HOLLOW</string>
+    <string name="level_4">AMBER RIDGE</string>
+    <string name="level_5">VINE CROSSING</string>
+    <string name="level_6">JADE TERRACE</string>
+    <string name="level_7">SUNKEN COURT</string>
+    <string name="level_8">TIGER THRONE</string>
+
+    <string name="stat_jade">JADE</string>
+    <string name="stat_roar">ROAR</string>
+    <string name="stat_time">TIME</string>
+    <string name="stat_turns_held">TURNS HELD</string>
+    <string name="stat_waves_repelled">BEASTS REPELLED</string>
+    <string name="stat_jade_earned">JADE EARNED</string>
+    <string name="stat_wards_left">WARDS LEFT</string>
+    <string name="stat_expeditions">EXPEDITIONS</string>
+    <string name="stat_stars">STARS</string>
+    <string name="stat_best_streak">BEST STREAK</string>
+
+    <string name="hint_idle">TAP A GATE TO OPEN OR SEAL A TRAIL</string>
+    <string name="hint_pick">TAP A GUARDIAN, THEN TAP A PLATFORM</string>
+    <string name="hint_armed">TAP A PLATFORM TO PLACE</string>
+    <string name="hint_sprint">BEASTS SPRINT ON UNGUARDED TRAILS</string>
+
+    <string name="guardian_sentry">TIGER SENTRY</string>
+    <string name="guardian_archer">BAMBOO ARCHER</string>
+    <string name="guardian_totem">JADE TOTEM</string>
+    <string name="beast_prowler">JUNGLE PROWLER</string>
+    <string name="beast_ape">STONE APE</string>
+    <string name="beast_shadow">SHADOW TIGER</string>
+
+    <string name="result_victory">THE GATE HELD</string>
+    <string name="result_defeat">THE JUNGLE TOOK THE TEMPLE</string>
+    <string name="star_cond_1">HOLD THE GATE</string>
+    <string name="star_cond_2">FINISH WITH 2 WARDS</string>
+    <string name="star_cond_3">ALL WARDS AND 2 TRAILS OPEN</string>
+    <string name="star_cond_all">EVERY STAR EARNED HERE</string>
+    <string name="new_relic">NEW RELIC UNLOCKED</string>
+
+    <string name="collection_empty">NOTHING UNLOCKED YET - HOLD THE GATE TO EARN RELICS</string>
+    <string name="progress_empty">NO EXPEDITION FINISHED YET</string>
+    <string name="equipped">EQUIPPED</string>
+
+    <string name="relic_1_name">JADE FANG</string>
+    <string name="relic_1_passive">PLUS 2 JADE EACH TURN</string>
+    <string name="relic_1_unlock">CLEAR EXPEDITION 1</string>
+    <string name="relic_2_name">SUN DISC</string>
+    <string name="relic_2_passive">PLUS 5 STARTING JADE</string>
+    <string name="relic_2_unlock">EARN 3 STARS</string>
+    <string name="relic_3_name">BAMBOO CHARM</string>
+    <string name="relic_3_passive">BAMBOO ARCHER COSTS 3</string>
+    <string name="relic_3_unlock">PLACE 25 ARCHERS</string>
+    <string name="relic_4_name">TIGER TOTEM</string>
+    <string name="relic_4_passive">TIGER SENTRY DAMAGE PLUS 1</string>
+    <string name="relic_4_unlock">DESTROY 20 PROWLERS</string>
+    <string name="relic_5_name">STONE WARD</string>
+    <string name="relic_5_passive">START WITH 4 WARDS</string>
+    <string name="relic_5_unlock">LOSE A RUN WITH 0 WARDS</string>
+    <string name="relic_6_name">MIST VEIL</string>
+    <string name="relic_6_passive">BEASTS NEVER SPRINT ON TURN 1</string>
+    <string name="relic_6_unlock">SURVIVE A WAVE WITH A SPRINT</string>
+    <string name="relic_7_name">AMBER EYE</string>
+    <string name="relic_7_passive">ROAR CHARGES AT 5</string>
+    <string name="relic_7_unlock">USE THE ROAR 5 TIMES</string>
+    <string name="relic_8_name">VINE LOCK</string>
+    <string name="relic_8_passive">SEALING A GATE IS FREE</string>
+    <string name="relic_8_unlock">SEAL 15 GATES</string>
+    <string name="relic_9_name">SHADOW PELT</string>
+    <string name="relic_9_passive">ROAR DEALS 5 DAMAGE</string>
+    <string name="relic_9_unlock">CLEAR EXPEDITION 8</string>
+
+    <string name="setting_path_preview">ENEMY PATH PREVIEW</string>
+    <string name="setting_path_preview_caption">SHOW WHERE BEASTS STEP NEXT</string>
+    <string name="setting_confirm_turn">CONFIRM TURN START</string>
+    <string name="setting_confirm_turn_caption">ASK WHEN JADE IS UNSPENT</string>
+    <string name="setting_turn_speed">TURN SPEED</string>
+    <string name="setting_turn_speed_caption">HOW FAST A TURN RESOLVES</string>
+    <string name="speed_normal">NORMAL</string>
+    <string name="speed_fast">FAST</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_progress_caption">THIS CLEARS LEVELS, STARS AND RELICS</string>
+
+    <string name="pause_title">EXPEDITION PAUSED</string>
+    <string name="pause_body">THE JUNGLE WAITS. THE TIMER IS STOPPED.</string>
+    <string name="rules_title">HOW THE TRAILS WORK</string>
+    <string name="rules_trails_head">THE TRAILS</string>
+    <string name="rules_trails_body">AN OPEN TRAIL PAYS 3 JADE EACH TURN AND LETS BEASTS WALK DOWN IT. SEALING COSTS 2 JADE.</string>
+    <string name="rules_guardians_head">THE GUARDIANS</string>
+    <string name="rules_guardians_body">PLACE GUARDIANS ON THE STONE PLATFORMS. A BEAST WITH NO GUARDIAN BESIDE IT SPRINTS TWO CELLS.</string>
+    <string name="rules_beasts_head">THE BEASTS</string>
+    <string name="rules_beasts_body">THE PROWLER IS FAST AND FRAGILE. THE STONE APE IS ARMOURED AND NEVER SPRINTS.</string>
+    <string name="rules_roar_head">THE ROAR</string>
+    <string name="rules_roar_body">EVERY DESTROYED BEAST CHARGES THE ROAR. A FULL ROAR HITS EVERY BEAST ON THE BOARD.</string>
+    <string name="confirm_turn_title">UNSPENT JADE</string>
+    <string name="confirm_turn_body_fmt">YOU STILL HAVE %1$d JADE TO SPEND.</string>
+
+    <string name="cd_emblem">Tiger Luck Quest emblem</string>
+    <string name="cd_back">Back to menu</string>
+    <string name="cd_pause">Pause the expedition</string>
+    <string name="cd_temple">Temple gate</string>
+    <string name="cd_wards_fmt">%1$d wards left</string>
+    <string name="cd_gate_open_fmt">Trail %1$d, open</string>
+    <string name="cd_gate_sealed_fmt">Trail %1$d, sealed</string>
+    <string name="cd_rubble">Blocked by rubble</string>
+    <string name="cd_platform_free">Free platform</string>
+    <string name="cd_not_enough_jade">Not enough jade</string>
+    <string name="cd_roar_needs_fmt">Needs %1$d more charge</string>
+    <string name="cd_armed">Armed</string>
+    <string name="cd_locked">Locked</string>
+    <string name="cd_on">On</string>
+    <string name="cd_off">Off</string>
+    <string name="cd_unlocked">Unlocked</string>
+    <string name="cd_equipped">Equipped</string>
+    <string name="cd_jade_fmt">%1$d jade</string>
+</resources>
